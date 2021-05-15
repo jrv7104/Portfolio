@@ -1,0 +1,7 @@
+This is my first attempt at my portfolio page. While I mostly wrote the HTML code from scratch, I did borrow elements from the CSS file example to see if any of those could be somewhat compatible, but also tried to play around with them. I might do more CSS elements from scratch. My biggest goal was to get the links to respond to clicks, and in that aspect I was successful. I was also able to import my resume data and put it in an HTML file that takes the user to a different page with my experience. This will be updated throughout the course.
+
+The big page I wanted to focus on was my first HTML page which focused on my favorite band, Sevendust. I feel like having this as a reference will be beneficial when my portfolio grows, and it would be an indicator to how much I've grown as a developer.
+
+The next link I added is the Code Refactor assignment, which was the first assignment given to us. I believe in the Readme file for that page I noted the adjustments I made, and it is in no way a page I developed from scratch. It was one that I fixed up.
+
+Once I develop more content I will play around with the organization and design more, but my goal was to get something laid out now, then improve it as the course goes on.
