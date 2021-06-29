@@ -4,4 +4,6 @@ The main project is the myDaily page that I did with a group. It is a page that 
 
 I also added my quiz generator, weather forecast, password generator and daily work planner. All of those have respective readme files.
 
+I also added screenshots of my old portfolio page. I wanted to show how much of a difference there has been in terms of design and work in only a few weeks.
+
 Changes will be made as time goes on. Possible changes include additional work content and a design update.
