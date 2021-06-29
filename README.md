@@ -1,6 +1,6 @@
-This is my first attempt at my portfolio page. While I mostly wrote the HTML code from scratch, I did borrow elements from the CSS file example to see if any of those could be somewhat compatible, but also tried to play around with them. I might do more CSS elements from scratch. My biggest goal was to get the links to respond to clicks, and in that aspect I was successful. I was also able to import my resume data and put it in an HTML file that takes the user to a different page with my experience. This will be updated throughout the course.
+This is an updated portfolio page. My main focus was updating the page with the project and a couple of homework assignments I accomplished. It was neat to see it grow with content that I did (with some help from others of course), and it was a reminder of how far I've come and how much more I can do.
 
-The big page I wanted to focus on was my first HTML page which focused on my favorite band, Sevendust. I feel like having this as a reference will be beneficial when my portfolio grows, and it would be an indicator to how much I've grown as a developer.
+The main project is the myDaily page that I did with a group. It is a page that provides a quick
 
 The next link I added is the Code Refactor assignment, which was the first assignment given to us. I believe in the Readme file for that page I noted the adjustments I made, and it is in no way a page I developed from scratch. It was one that I fixed up.
 
