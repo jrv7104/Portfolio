@@ -8,6 +8,9 @@ I also added screenshots of my old portfolio page. I wanted to show how much of 
 
 Changes will be made as time goes on. Possible changes include additional work content and a design update.
 
+Website link: https://jrv7104.github.io/Portfolio/
+Repository link: https://github.com/jrv7104/Portfolio
+
 Old Portfolio Pages
 
 ![Old Portfolio Page](https://user-images.githubusercontent.com/65679950/123855660-c50ce880-d8e5-11eb-8737-74203f8e90e0.jpeg)
