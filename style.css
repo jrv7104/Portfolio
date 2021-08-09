@@ -1,5 +1,5 @@
 * {
-  background-color: cornflowerblue;
+  background-color: beige;
   background-clip: border-box;
 }
 
@@ -23,13 +23,13 @@ img {
     flex-wrap: wrap;
     align-items: center;
     box-shadow: 0 5px 35px rgba(146, 204, 206, 0.4);
-    background-color: yellow;
+    background-color: grey;
   }
 
 
 header h1 {
-    color: blue;
-    background-color: yellow;
+    color: whitesmoke;
+    background-color: grey;
     margin: 0;
     font-size: 4vw;
     line-height: 1;
@@ -37,18 +37,18 @@ header h1 {
     display: flex;
     justify-content: flex-start;
 }
-    
+
 .greeting {
     display: flex;
    justify-content: flex-start;
    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-   color:teal;
+   color:black;
   }
 
 nav {
         display: flex;
         justify-content: flex-end;
-        color: teal;
+        color: black;
         font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
         padding: 5px 5px 5px 5px;
       }
@@ -62,7 +62,7 @@ p {
 }
 
 #about {
-    font-family:Verdana, Geneva, Tahoma, sans-serif
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
 }
 
 #work {
@@ -91,7 +91,7 @@ p {
 }
 
 .project {
-  border: 5px solid green;
+  border: 5px solid gray;
   min-height: 225px;
   max-height: 225px;
   text-decoration: none;
