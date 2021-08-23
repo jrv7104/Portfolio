@@ -19,13 +19,18 @@ img {
     padding: 10px 10px 10px 10px;
     display: flex;
     flex-direction: row;
-    justify-content: flex;
+    justify-content: space-between;
     flex-wrap: wrap;
     align-items: center;
     box-shadow: 0 5px 35px rgba(146, 204, 206, 0.4);
     background-color: grey;
   }
 
+.links a {
+  background-color: gray;
+  color: white;
+  text-decoration: none;
+}
 
 header h1 {
     color: whitesmoke;
@@ -88,6 +93,11 @@ p {
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
+}
+
+.page-section a {
+  color: blue;
+  text-decoration: none;
 }
 
 .project {
