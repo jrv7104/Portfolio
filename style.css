@@ -126,30 +126,30 @@ p {
 }
 
 .pwdGen {
-  background-image: url("./Password\ Generator.jpeg");
+  background-image: url("./images/Password\ Generator.jpeg");
   background-size: cover;
 }
 
 .mainP {
-  background-image: url("./myDaily.jpg");
+  background-image: url("./images/myDaily.jpg");
   background-size: cover;
 }
 
 .mainB {
-  background-image: url("./board-game-sommelier.jpg");
+  background-image: url("./images/board-game-sommelier.jpg");
   background-size: cover;
 }
 
 .workD {
-  background-image: url("./Work\ Day\ Scheduler.jpeg");
+  background-image: url("./images/Work\ Day\ Scheduler.jpeg");
   background-size: cover;
 }
 .quiz {
-  background-image: url("./Quiz\ Generator.jpeg");
+  background-image: url("./images/Quiz\ Generator.jpeg");
   background-size: cover;
 }
 .rain{
-  background-image: url("./Weather\ Dashboard.jpeg");
+  background-image: url("./images/Weather\ Dashboard.jpeg");
   background-size: cover;
 }
 
