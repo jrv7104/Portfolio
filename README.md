@@ -10,5 +10,18 @@ Website link: https://jrv7104.github.io/Portfolio/
 
 Repository link: https://github.com/jrv7104/Portfolio
 
+First portfolio attempt page 1: ![Old Portfolio Page](https://user-images.githubusercontent.com/65679950/130890439-0d9cd740-8b04-4d42-8110-00d704adcf3b.jpeg)
+
+First portfolio attempt page 2: ![Old Portfolio Page 2](https://user-images.githubusercontent.com/65679950/130890472-e5d84c28-32c4-4af8-84f6-640e964608a8.jpeg)
+
+Second portfolio attempt page 1: <img width="1440" alt="New Portfolio Page 1" src="https://user-images.githubusercontent.com/65679950/130890503-ccebe680-f7ab-4d3e-bf84-d2638348c391.png">
+
+Second portfolio attempt page 2: <img width="1440" alt="New Portfolio Page 2" src="https://user-images.githubusercontent.com/65679950/130890530-5b9b8518-c869-410d-b3da-ad9e9e4a54fb.png">
+
+Updated portfolio attempt page 1: <img width="1338" alt="Updated Portfolio Page 1" src="https://user-images.githubusercontent.com/65679950/130890581-ea4e93e4-47a0-4d38-bc6d-0458689a9de8.png">
+
+Updated portfolio attempt page 2: <img width="1334" alt="Updated Portfolio Page 2" src="https://user-images.githubusercontent.com/65679950/130890590-78ad4773-a935-411f-9665-400a5739ca17.png">
+
+Updated portfolio attempt page 3: <img width="1350" alt="Updated Portfolio Page 3" src="https://user-images.githubusercontent.com/65679950/130890628-3001685a-3f63-4df5-a45b-593e6f44a05b.png">
 
 
