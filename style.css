@@ -70,7 +70,7 @@ p {
     font-family:Verdana, Geneva, Tahoma, sans-serif;
 }
 
-.page-section {
+/* .page-section {
   margin: 25px 0;
   padding: 10px 0;
   display: flex;
@@ -78,23 +78,24 @@ p {
   flex-wrap: wrap;
   align-items: stretch;
   justify-content: space-between;
-}
+} */
 
 .page-section h2 {
   flex: 0 0 20%;
 }
 
 .page-section div {
-  flex: 0 0 75%;
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
 }
 
 .page-section a {
+  margin-left: 20px;
   color: blue;
   text-decoration: none;
 }
+
 
 .project {
   border: 5px solid gray;
@@ -148,7 +149,7 @@ p {
   background-image: url("./images/Weather\ Dashboard.jpeg");
   background-size: cover;
 }
-
+/* 
 .flex-container {
   display: flex;
   flex-wrap: wrap;
@@ -177,7 +178,7 @@ p {
   display: flex;
   align-items: center;
   position: absolute;
-}
+} */
 
 @media screen and (min-width: 640px) {
   header {
