@@ -149,36 +149,6 @@ p {
   background-image: url("./images/Weather\ Dashboard.jpeg");
   background-size: cover;
 }
-/* 
-.flex-container {
-  display: flex;
-  flex-wrap: wrap;
-  justify-content: center;
-}
-
-.flex-item {
-  align-items: flex-center;
-  padding: 0 0 20px 0;
-  margin: 0.5em;
-  text-decoration: none;
-  background-blend-mode: soft-light;
-  background-size: 150%;
-  transition: all 0.5s;
-  font-size: 16px;
-}
-
-.flex-item:first-assignment {
-  max-height: 10px;
-  flex-basis: 100%;
-  display: flex;
-  align-items: center;
-}
-
-.flex-item:webpage-update {
-  display: flex;
-  align-items: center;
-  position: absolute;
-} */
 
 @media screen and (min-width: 640px) {
   header {
